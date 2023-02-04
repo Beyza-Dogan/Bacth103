@@ -112,6 +112,7 @@ public class day14 {
 
         System.out.println(Arrays.toString(words));//[ne, ki, Java, kolay, kolaydir, calisana, calismayana]
         System.out.println(words[words.length-1]);//calismayana
+        System.out.println();
 
     }
 
